@@ -28,7 +28,7 @@ BASE_URL = "https://admin.joacademy.net/api/v2/user-course"
 # معلومات API الخاصة بـ Telegram
 API_ID = 20944746  # استبدل بـ API ID الخاص بك
 API_HASH = "d169162c1bcf092a6773e685c62c3894"  # استبدل بـ API Hash الخاص بك
-BOT_TOKEN = "7554280828:AAG4ekarvU_lJ5cDaOS0XJ0a8tznR73mxjk  # استبدل بـ Token البوت الخاص بك
+BOT_TOKEN = "7554280828:AAG4ekarvU_lJ5cDaOS0XJ0a8tznR73mxjk"  # استبدل بـ Token البوت الخاص بك
 
 # إنشاء عميل Pyrogram
 app = Client("my_bo2213t", api_id=API_ID, api_hash=API_HASH, bot_token=BOT_TOKEN)
